@@ -1,0 +1,997 @@
+.bg1 {
+    background: #FFF6E1;
+
+}
+
+/* header */
+.collapse {
+    margin-left: 260px;
+    text-indent: 30px;
+}
+
+.collapse .nav-item {
+    color: #000000;
+    font-family: Poppins;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    letter-spacing: 0.54px;
+}
+
+.navbar-toggler {
+    border: none !important;
+    background-color: transparent !important;
+}
+
+.navbar-toggler:focus {
+    border: none !important;
+    background-color: transparent !important;
+    box-shadow: none !important;
+}
+
+.navbar-toggler-icon {
+    display: none !important;
+}
+
+.nav-item .active {
+    color: #F7B030 !important;
+    font-family: Poppins;
+    font-size: 18.046px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    letter-spacing: 0.541px;
+}
+
+.collapse button {
+    color: #FFF;
+    font-family: Poppins;
+    font-size: 18.046px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    letter-spacing: 0.541px;
+    border-radius: 10px;
+    background: #F7B030;
+    padding: 13px 25.064px;
+    gap: 10.025px;
+    border: none;
+}
+
+/* headerend */
+
+
+
+/* firstsection */
+.firstsection {
+    margin-top: 160px;
+
+}
+
+
+
+.firstsectionhead {
+    color: #000;
+    font-family: Poppins;
+    font-size: 65px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    letter-spacing: 1.95px;
+    margin-left: 100px;
+}
+
+.firstsectionheadcolor {
+    color: #F7B030 !important;
+}
+
+.firstsectionpara {
+    color: #7C7C7C;
+    font-family: Poppins;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 32px;
+    /* 177.778% */
+    letter-spacing: 0.54px;
+    margin-left: 100px;
+}
+
+.firstsection input {
+    border: none;
+    border-radius: 10px;
+    background: #FFF !important;
+    padding: 20.051px 25.064px;
+    color: #F7B030;
+    font-family: Poppins;
+    font-size: 18.046px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    letter-spacing: 0.541px;
+    margin-left: 100px;
+}
+
+.firstsection-input-placeholder {
+    color: #F7B030;
+}
+
+.firstsection button {
+    margin-left: 50px;
+    border-radius: 10px;
+    background: #F7B030;
+    border: none;
+    padding: 13px 25.064px;
+    color: #FFF;
+    font-family: Poppins;
+    font-size: 18.046px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    letter-spacing: 0.541px;
+}
+
+.firstsectionpng {
+    top: 140%;
+    position: absolute;
+}
+
+.firstsectionimages .bg-image1 {
+    background-repeat: no-repeat;
+    margin-left: 200px;
+}
+
+.firstsectionimages .card {
+    height: 80px;
+    width: 200px;
+    border: none;
+    border-radius: 15px;
+    left: 350px;
+    bottom: 50px;
+
+
+
+}
+
+.firstsectionimages .card img {
+    width: 64.312px;
+    height: 78px;
+}
+
+.firstsectionimages h5 {
+    color: #000;
+    font-family: Poppins;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 25px;
+    /* 138.889% */
+    letter-spacing: 0.54px;
+}
+
+.firstsectionimages h6 {
+    color: #7C7C7C;
+    font-family: Poppins;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 25px;
+    letter-spacing: 0.54px;
+}
+
+.cardh5h6 {
+    margin-top: 10px !important;
+    margin-left: 10px !important;
+}
+
+.dotimage1 img {
+    margin-right: 100px !important;
+}
+
+.firstsectionimages .card1 img {
+    width: 64.312px;
+    height: 78px;
+}
+
+.firstsectionimages .card1 {
+    background-color: #FFF;
+    height: 80px;
+    width: 200px;
+    border: none;
+    border-radius: 15px;
+    margin-top: 150px;
+    margin-right: 100px !important;
+}
+
+.firstsectionimages .card2 img {
+    width: 100px;
+    height: 100px;
+    padding: 3px 3px 3px 3px;
+}
+
+.firstsectionimages .card2 {
+    background-color: #FFF;
+    height: 100px;
+    width: 450px;
+    border: none;
+    border-radius: 15px;
+    margin-top: 180px;
+    margin-right: 100px !important;
+}
+
+.firstsectionimages .card2 .cardh5h6 .card2png {
+    height: auto;
+    width: auto;
+
+}
+
+.secondsection {
+    margin-top: 100px;
+}
+
+@media (max-width:376px) {
+    .firstsectionhead {
+        margin-left: 0% !important;
+        font-size: 40px;
+        width: 313.885px;
+    }
+
+    .firstsectionpara {
+        margin-left: 0%;
+    }
+
+    .firstsection input {
+        margin-left: 0%;
+    }
+
+    .firstsection button {
+        width: 100%;
+        margin-top: 30px;
+        margin-left: 0%;
+        text-align: left;
+    }
+
+
+
+    .firstsection button img {
+        margin-left: 50%;
+
+    }
+
+    .firstsectionimages .bg-image1 {
+        width: 310px !important;
+        height: 80% !important;
+        margin-top: 160px;
+        margin-left: 15%;
+
+    }
+
+    .firstsectionpng {
+        display: none;
+    }
+
+    .dotimage img {
+        width: 41.538px;
+        height: 26.243px;
+        flex-shrink: 0;
+        flex-shrink: 0;
+    }
+
+    .firstsectionimages .card img {
+
+        width: 49.597px;
+        height: 65px;
+        flex-shrink: 0;
+        margin-top: 5px;
+        margin-left: 5px;
+    }
+
+    .firstsectionimages .card {
+        left: 35%;
+    }
+
+    .firstsectionimages h5 {
+        margin-top: 10px;
+        color: #000;
+        font-family: Poppins;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 600;
+        line-height: 20.4px;
+        /* 127.5% */
+        letter-spacing: 0.48px;
+        margin-left: 10px;
+
+    }
+
+    .firstsectionimages h6 {
+        color: #7C7C7C;
+        font-family: Poppins;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 20.4px;
+        letter-spacing: 0.48px;
+        margin-left: 10px;
+    }
+
+    .firstsectionimages .card1 {
+        margin-right: 50px !important;
+    }
+
+    .firstsectionimages .card2 img {
+        width: 116.487px !important;
+        height: 116.487px !important;
+        flex-shrink: 0;
+
+    }
+
+
+    .firstsectionimages .card2 {
+        margin-right: 0%;
+    }
+
+    .firstsectionimages .card2 .card-subtitle {
+        font-size: 16px;
+        width: 5px;
+        width: auto !important;
+    }
+
+    .firstsectionimages .card2 .card2png {
+        height: auto !important;
+        width: auto !important;
+
+    }
+
+}
+
+
+
+/* firstsection end */
+
+
+/* second section */
+
+.secondsectioncards {
+    margin-top: 100px;
+
+}
+
+.secondsectioncards .card {
+    width: 300px;
+    height: 340px;
+    flex-shrink: 0;
+    border: none;
+    border-radius: 15px;
+    background: #FFF;
+    box-shadow: 0px 3px 50px 0px #F4F4F4;
+
+}
+
+.secondsectioncards .card img {
+    margin-top: 70px;
+    width: 56px;
+    height: 56px;
+    flex-shrink: 0;
+}
+
+.secondsectioncards .card .card-title {
+    color: #000;
+    font-family: Goldplay;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    letter-spacing: 0.66px;
+    margin-top: 20px;
+}
+
+.secondsectioncards .card .card-text {
+    color: #7C7C7C;
+    text-align: center;
+    font-family: Poppins;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 32px;
+    margin-top: 20px;
+    /* 177.778% */
+}
+
+.secondsectionpng2 {
+    position: absolute;
+    left: 92%;
+}
+
+
+.secondsectionbg2 .bg2color1 {
+    width: 755.108px;
+    height: 755.108px;
+    flex-shrink: 0;
+    border-radius: 755.108px;
+    border: 5px solid #FFF6E1;
+}
+
+.secondsectionbg2 .bg2color2 {
+    width: 698.102px;
+    height: 698.102px;
+    flex-shrink: 0;
+    border-radius: 698.102px;
+    background: #F1F1F1;
+    margin-top: 25px;
+    margin-left: 25px;
+}
+
+.secondsectionbg2card .card1 {
+    width: 289.63px;
+    height: 161.877px;
+    flex-shrink: 0;
+    border-radius: 16px;
+    background: #FCFCFD;
+    box-shadow: 0px 8px 24px 0px rgba(31, 31, 51, 0.06);
+}
+
+.secondsectionbg2card .card1 img {
+    width: 53.956px;
+    height: 53.956px;
+    flex-shrink: 0;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+.secondsectionbg2card .card1 .card-title {
+    color: #000;
+    text-align: center;
+    font-family: Poppins;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 32px;
+    /* 177.778% */
+}
+
+.secondsectionbg2 .card1 h4 {
+    margin-top: 10 px;
+}
+
+.secondsectionbg2card .card2 {
+    width: 154.746px;
+    height: 143.111px;
+
+    flex-shrink: 0;
+    background-color: #FFFFFF;
+    margin-left: 650px;
+    text-align: center;
+}
+
+.secondsectionbg2card .card2 img {
+    margin-top: 10px;
+    width: 113.364px;
+    height: 113.364px;
+    flex-shrink: 0;
+}
+
+.secondsectionbg2card .card3 {
+    width: 344.6px;
+    height: 141.352px;
+    flex-shrink: 0;
+    border-radius: 15px;
+    background: #FFF;
+    box-shadow: 0px 3px 50px 0px #F4F4F4;
+    margin-top: 290px;
+}
+
+.secondsectionbg2card .card3 img {
+    margin-top: 10px;
+
+}
+
+.secondsectionbg2card .card3 .body {
+    margin-top: 10px;
+
+}
+
+.secondsectionbg2card .card3 .card3head {
+    color: #000;
+    font-family: Poppins;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 32px;
+    /* 145.455% */
+}
+
+.secondsectionbg2card .card3 .card3para {
+    color: #7C7C7C;
+    font-family: Poppins;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px;
+    /* 177.778% */
+}
+
+.secondsectionbg2card .card3 .card3rate {
+    color: #F7B030;
+    font-family: Poppins;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 32px;
+    /* 177.778% */
+}
+
+.secondsectionbg2two {
+
+    margin-top: 290px;
+    margin-left: 80px;
+}
+
+.secondsectionbg2two h3 {
+    color: #000;
+    font-family: Poppins;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    letter-spacing: 1.2px;
+}
+
+.secondsectionbg2two p {
+    color: #7C7C7C;
+    font-family: Poppins;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 32px;
+    /* 177.778% */
+    width: 478.943px;
+}
+
+.secondsectionbg2two button {
+    border-radius: 10px;
+    background: #F7B030;
+    color: #FFF;
+    font-family: Poppins;
+    font-size: 18.046px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    letter-spacing: 0.541px;
+    display: inline-flex;
+    padding: 20.051px 25.064px;
+    align-items: flex-start;
+    gap: 10.025px;
+    border: none;
+}
+
+.secondsectionbg2png3 img {
+    margin-top: 50px;
+    margin-left: 96%;
+
+}
+
+@media (max-width:376px) {
+
+    .secondsectionbg2 .bg2color1 {
+        width: 375px;
+        height: 375px;
+        flex-shrink: 0;
+        border-radius: 375px;
+        border: 3px solid #FFF6E1;
+    }
+
+    .secondsectionbg2 .bg2color2 {
+        width: 346.69px;
+        height: 346.69px;
+        flex-shrink: 0;
+        border-radius: 346.69px;
+        background: #F1F1F1;
+        margin-top: 13px;
+        margin-left: 15px;
+    }
+
+
+    .secondsectionpng2 {
+        left: 0% !important;
+
+    }
+
+    .secondsectionpng2 img {
+        width: 44.1px !important;
+        height: 27.861px !important;
+        flex-shrink: 0;
+    }
+
+    .secondsectionbg2 {
+        margin-top: 50px !important;
+    }
+
+    .secondsectioncards .card1 {
+        /* width: 150px !important;
+        height: 100px !important;
+        border-radius: 11.05px;
+        background: #FCFCFD;
+        box-shadow: 0px 5.524934768676758px 16.574806213378906px 0px rgba(31, 31, 51, 0.06); */
+        margin-top: 10px;
+
+    }
+}
+
+/* second section */
+
+/* third section*/
+
+.bg3 {
+    background-color: #FFF6E1;
+}
+
+.thirdsection {}
+
+
+
+.thirdsectionh4 {
+    color: #000;
+    font-family: Poppins;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 60px;
+    /* 150% */
+    letter-spacing: 1.2px;
+    width: 662.492px;
+    margin-left: 150px;
+    padding-top: 70px;
+
+
+}
+
+.thirdsection .header img {
+    margin-left: 655px;
+    margin-top: 50px;
+}
+
+.thirdsection .card {
+    width: 402.138px;
+    height: 254.155px;
+    flex-shrink: 0;
+    border-radius: 10px;
+    background: #FFF;
+    box-shadow: 0px 20px 40px 0px rgba(239, 223, 187, 0.40);
+}
+
+.thirdsection .card img {
+    width: 54.152px;
+    height: 54.152px;
+    flex-shrink: 0;
+}
+
+/* fourth section */
+.fourthsection {
+    margin-top: 80px;
+}
+
+.fourthsectionleft {
+    margin-top: 130px;
+    margin-left: 150px;
+}
+
+.fourthsectionleft h4 {
+    color: #000;
+    font-family: Poppins;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    letter-spacing: 1.2px;
+    width: 417px;
+}
+
+.fourthsectionleft p {
+    color: #7C7C7C;
+    font-family: Poppins;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 32px;
+    /* 177.778% */
+    width: 437.14px;
+}
+
+.fourthsectionleft button {
+    display: inline-flex;
+    padding: 20.051px 25.064px;
+    align-items: flex-start;
+    gap: 10.025px;
+    border-radius: 10px;
+    background: #F7B030;
+    border: none;
+    color: #FFF;
+    font-family: Poppins;
+    font-size: 18.046px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    letter-spacing: 0.541px;
+}
+
+.fourthsectionright {
+    margin-top: 180px;
+}
+
+
+.fourthsectionright .fourthsectionbg1 {
+    width: 752.021px;
+    height: 752.021px;
+    flex-shrink: 0;
+    border-radius: 752.021px;
+    border: 5px solid #FFF6E1;
+}
+
+.fourthsectionright .fourthsectionbg2 {
+    width: 698.102px;
+    height: 698.102px;
+    flex-shrink: 0;
+    border-radius: 698.102px;
+    background: #F1F1F1;
+    margin-top: 25px;
+    margin-left: 25px;
+}
+
+.fourthsectionright .card {
+    width: 250px;
+    height: 354px;
+
+    flex-shrink: 0;
+    border-radius: 24px;
+    background: #FFF;
+    box-shadow: 0px 16px 72px 0px #F4F4F4;
+    bottom: 200px;
+
+
+}
+
+.fourthsectionright .card .mt {
+    width: 89.536px;
+    height: 89.536px;
+    flex-shrink: 0;
+
+}
+
+.fourthsectionright .cardh4 {
+    color: #000;
+    font-family: Poppins;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+
+.fourthsectionright .cardp {
+    color: #7C7C7C;
+    text-align: center;
+    font-family: Poppins;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 28px;
+    /* 155.556% */
+    width: 205.125px;
+    height: 80.619px;
+    flex-shrink: 0;
+    margin-left: 20px !important;
+}
+
+
+.fourthsectionright .telephone {
+    margin-left: 250px;
+    padding-bottom: 100px;
+
+}
+
+.fourthsectionright .card2 {
+    width: 238.738px;
+    height: 303.197px;
+    flex-shrink: 0;
+    border-radius: 15px;
+    background: #FFF;
+    box-shadow: 0px 3px 50px 0px #F4F4F4;
+    margin-top: 150px;
+}
+
+.fourthsectionright .card2 img {
+    margin-left: 65px;
+
+}
+
+.fourthsectionright .card2h4 {
+    text-align: center !important;
+    color: #000;
+    font-family: Poppins;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    letter-spacing: 0.54px;
+}
+
+.fourthsectionright .card2p {
+    text-align: center;
+    color: #7C7C7C;
+    text-align: center;
+    font-family: Poppins;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    letter-spacing: 0.54px;
+
+}
+
+.fourthsectionright .card2num {
+    text-align: center;
+    color: #F7B030;
+    font-family: Poppins;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    letter-spacing: 0.54px;
+}
+
+.sixthsection {
+    margin-top: 100px;
+}
+
+.sixthsection h4 {
+    color: #000;
+    text-align: center;
+    font-family: Poppins;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    letter-spacing: 1.2px;
+}
+
+.sixthsection p {
+    color: #7C7C7C;
+    font-family: Poppins;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    letter-spacing: 0.54px;
+}
+
+.sixthsectionbottom {
+    border-radius: 16.887px;
+    background: #FFF6E1;
+    margin-top: 100px;
+}
+
+.sixthsectionbottom img {
+    margin-left: 90%;
+    margin-top: 10PX;
+}
+
+.sixthsectioncards {
+    margin-top: 40px;
+    margin-left: 180px;
+}
+
+.sixthsectioncards .card:hover {
+
+    transform: scale(1.1);
+    background-color: #F7B030;
+    color: #F4F4F4 !important;
+}
+
+
+
+
+
+.sixthsectioncards .card {
+    width: 301.629px !important;
+    height: 337.51px;
+    flex-shrink: 0;
+    border-radius: 24px;
+    background: #FFF;
+
+}
+
+.sixthsectioncards h3 {
+    margin-top: 80px;
+    color: #F7B030;
+    font-family: Poppins;
+    font-size: 50px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    letter-spacing: 1.5px;
+}
+
+.sixthsectioncards h4 {
+    color: #000;
+    font-family: Poppins;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    letter-spacing: 0.66px;
+}
+
+.sixthsectioncards p {
+    color: #7C7C7C;
+    text-align: center;
+    font-family: Poppins;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    letter-spacing: 0.54px;
+    width: 209.778px;
+    height: 44.242px;
+    flex-shrink: 0;
+    margin-left: 40px;
+}
+
+.sixthsectioncards .card button {
+    border-radius: 10px;
+    background: #FFF;
+    box-shadow: 0px 20px 25.06352996826172px 0px rgba(254, 219, 65, 0.50);
+    display: inline-flex;
+    padding: 20.051px 25.064px;
+    align-items: flex-start;
+    gap: 10.025px;
+    color: #F7B030;
+    font-family: Poppins;
+    font-size: 18.046px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    letter-spacing: 0.541px;
+}
+
+
+/* sixth section end */
+
+/* footer */
+.bg7 {
+    margin-top: 200px;
+    background-color: #FFF6E1;
+
+}
+
+.bg7 .footerpng {
+    margin-top: 25px;
+}
+
+.footer {
+    margin-top: 25px;
+
+}
+
+.footer h4 {
+    color: #000;
+    font-family: Poppins;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    letter-spacing: 0.66px;
+    padding-bottom: 10px;
+}
+
+
+.footer p {
+    color: #7C7C7C !important;
+    font-family: Poppins;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    letter-spacing: 0.54px;
+    padding-bottom: 15px;
+}

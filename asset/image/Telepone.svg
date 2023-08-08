@@ -1,0 +1,23 @@
+<svg width="246" height="232" viewBox="0 0 246 232" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Telepone">
+<g id="Group 65">
+<g id="Group 17">
+<g id="Rectangle 41" filter="url(#filter0_d_202_350)">
+<rect x="50.6656" y="47.0754" width="145.093" height="131.356" rx="15" fill="white"/>
+</g>
+</g>
+</g>
+<rect id="Rectangle 83" x="69.5173" y="59.0587" width="107.389" height="107.389" rx="16" fill="#F1F1F1"/>
+</g>
+<defs>
+<filter id="filter0_d_202_350" x="0.665573" y="0.0753784" width="245.093" height="231.356" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="3"/>
+<feGaussianBlur stdDeviation="25"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0.958333 0 0 0 0 0.958333 0 0 0 0 0.958333 0 0 0 1 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_202_350"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_202_350" result="shape"/>
+</filter>
+</defs>
+</svg>
